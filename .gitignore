@@ -1,0 +1,8 @@
+node_modules
+.idea/.gitignore
+.idea/FlaskPractice.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+__pycache__/
